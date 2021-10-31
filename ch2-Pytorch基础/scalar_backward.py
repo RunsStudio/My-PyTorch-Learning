@@ -1,5 +1,5 @@
 import torch
-
+# 标量反向传播
 if __name__=='__main__':
     print('Hello pytorch!')
     print(torch.has_cuda)
